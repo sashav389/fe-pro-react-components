@@ -1,3 +1,4 @@
+import React from 'react';
 import {items} from "../db";
 
 export const NavItem = () => {
