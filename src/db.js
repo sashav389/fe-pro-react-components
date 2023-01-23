@@ -71,7 +71,7 @@ export const items = [
     },
 ];
 
-export const navList = [
+export const navigation = [
     {
         id: 1,
         link: `/`,
